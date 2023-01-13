@@ -8,6 +8,8 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 * Data Science, Engineering and Visualization,
 * Signal Processing and Time Series Analysis.
 
+---
+
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
