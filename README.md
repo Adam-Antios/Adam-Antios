@@ -17,7 +17,7 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 
 
-**ML, Data Science/Engineering**
+**ML and Data Science**
 
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square)
@@ -34,7 +34,7 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 ![openSUSE Badge](https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=fff&style=flat-square)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat-square)
 
-**Digital Typography**
+**Typography and Design**
 
 ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
@@ -44,6 +44,8 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 **Miscellaneous Software**
 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![DVC Badge](https://img.shields.io/badge/DVC-13ADC7?logo=dvc&logoColor=fff&style=flat-square)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
 ![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat-square)
 
 **Source Code Editors**
