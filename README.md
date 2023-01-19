@@ -10,7 +10,7 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 
 ## Software Expertise
 
-<img align="right" width="410" src="assets/workshop.png">
+<img align="right" width="400" src="assets/workshop.png">
 
 **Programming Languages**
 
