@@ -10,7 +10,7 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 
 ---
 
-![](assets/workshop.png){style="float: right"}
+<img align="right" width="410" src="assets/workshop.png">
 
 **Programming Languages**
 
