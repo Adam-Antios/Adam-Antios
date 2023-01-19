@@ -1,6 +1,6 @@
-### Adamantios
+## Hello, I am Adam!
 
-Research Engineer | Data Scientist
+**Research Engineer | Data Scientist**
 
 My background is in Electrical and Computer Engineering. Currently, I work on Machine Learning and Signal Processing algorithms for devices based on Ultra-Wideband (UWB) radar and Inertial Measurement Unit (IMU) sensors. The main applications of those devices include gait kinematic analysis and human activity recognition (HAR). My research interests include:
 
@@ -8,7 +8,7 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 * Data Science, Engineering and Visualization,
 * Signal Processing and Time Series Analysis.
 
----
+## Software Expertise
 
 <img align="right" width="410" src="assets/workshop.png">
 
