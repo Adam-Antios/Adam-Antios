@@ -10,6 +10,8 @@ My background is in Electrical and Computer Engineering. Currently, I work on Ma
 
 ---
 
+![](assets/workshop.png){style="float: right"}
+
 **Programming Languages**
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
