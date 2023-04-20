@@ -1,12 +1,6 @@
 ## Hello, I am Adam!
 
-**Research Engineer | Data Scientist**
-
-My background is in Electrical and Computer Engineering. Currently, I work on Machine Learning and Signal Processing algorithms for medical devices based on either Ultra-Wideband (UWB) radar or Inertial Measurement Unit (IMU) sensors. The main applications of those devices include gait kinematic analysis and human activity recognition (HAR). My main interests are:
-
-* Artificial Intelligence and Machine Learning,
-* Data Science, Engineering and Visualization,
-* Signal Processing and Time Series Analysis.
+I am a Research Engineer interested in Artificial Intelligence, Machine Learning and Data Science. My background is in Electrical and Computer Engineering. Currently, I work on Machine Learning and Signal Processing algorithms for medical devices based on either Ultra-Wideband (UWB) radar or Inertial Measurement Unit (IMU) sensors.
 
 ## Software Expertise
 
