@@ -1,6 +1,6 @@
 ## Hello, I am Adam!
 
-I am a Research Engineer interested in Artificial Intelligence, Machine Learning and Data Science. My background is in Electrical and Computer Engineering. Currently, I work on Machine Learning and Signal Processing algorithms for medical devices based on either Ultra-Wideband (UWB) radar or Inertial Measurement Unit (IMU) sensors.
+I am a Research Engineer at PD Neurotechnology interested in Artificial Intelligence, Machine Learning and Data Science. My background is in Electrical and Computer Engineering. Currently, I work on Machine Learning and Signal Processing algorithms for devices based on Ultra-Wideband (UWB) radar and Inertial Measurement Unit (IMU) sensors.
 
 ## Software Expertise
 
