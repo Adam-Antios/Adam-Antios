@@ -27,7 +27,6 @@ Operating Systems
 ![Fedora Badge](https://img.shields.io/badge/Fedora-3776AB?&logo=fedora&logoColor=fff&style=for-the-badge)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
 
-
 Miscellaneous Software
 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
