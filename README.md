@@ -13,7 +13,7 @@ Programming Languages
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 
-Machine Learning and Data Science
+ML and Data Science
 
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=for-the-badge)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
