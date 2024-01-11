@@ -1,7 +1,7 @@
 ## Hello, I am Adam!
 
 I am a Research Engineer at the R&D department of PD Neurotechnology. My background is in Electrical and Computer Engineering.
-My research interests include Machine Learning, Neural Computation and Data Science.
+My research interests include Artificial Intelligence and Computational Neuroscience.
 
 ## Software Expertise
 
