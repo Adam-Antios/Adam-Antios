@@ -2,7 +2,7 @@
 
 I am a Research Engineer at the R&D department of PD Neurotechnology. My background is in Electrical and Computer Engineering.
 My research interests lie in the intersection of Artificial Intelligence and Computational Neuroscience.
-Currently, I am developing Machine Learning algorithms for sensing applications.
+Currently, I am developing Machine Learning algorithms for sensing applications using Inertial Measurement Unit (IMU) and Ultra-Wideband radar sensors.
 
 ## Software Expertise
 
