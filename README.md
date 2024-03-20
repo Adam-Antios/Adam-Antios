@@ -1,6 +1,6 @@
 ## Hello, I am Adam!
 
-I am a Research Engineer at the R&D department of PD Neurotechnology with a background in Electrical and Computer Engineering. My research interests mainly lie in the intersection of Artificial Intelligence and Computational Neuroscience, alongside a keen fascination in Data Science and Data Engineering. Currently, I am developing Machine Learning algorithms for sensing applications using Inertial Measurement Unit (IMU) and Ultra-Wideband (UWB) radar sensors. If not, I am analyzing biomedical data, or building data apps and pipelines for extracting and visualizing information.
+I am a Research Engineer at the R&D department of PD Neurotechnology Ltd. with a background in Electrical and Computer Engineering. My research interests mainly lie in the intersection of Artificial Intelligence and Computational Neuroscience, alongside a keen fascination in Data Science and Data Engineering. Currently, I am developing Machine Learning algorithms for sensing applications using Inertial Measurement Unit (IMU) and Ultra-Wideband (UWB) radar sensors. If not, I am analyzing biomedical data, or building data apps and pipelines for extracting and visualizing information.
 
 ## Software Expertise
 
